@@ -1,0 +1,55 @@
+header {
+    background: #9999cc;
+    height: 60px;
+}
+
+h1 {
+    margin-left: 280px;
+    padding: 10px;
+    color: #ffffff;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+main {
+    width: 940px;
+    margin: 0 auto;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+form {
+    margin: 40px 0;
+}
+
+form label {
+    display: block;
+    font-size: 15px;
+    margin: 0 0 10px;
+}
+
+#divCifra {
+    display: none;
+}
+
+#divBase {
+    display: none;
+}
+
+.digitar {
+    display: block;
+    margin: 0 0 20px;
+    padding: 10px 20px;
+    width: 30%;
+}
+
+.botão {
+    width: 35%;
+    padding: 10px 0;
+    font-weight: bold;
+    font-size: 15px;
+    background: #666666;
+    border: none;
+}
+
+.botão:hover {
+    background: #ffff00;
+}
