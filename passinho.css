@@ -26,14 +26,6 @@ form label {
     margin: 0 0 10px;
 }
 
-#divCifra {
-    display: none;
-}
-
-#divBase {
-    display: none;
-}
-
 .digitar {
     display: block;
     margin: 0 0 20px;
@@ -41,7 +33,7 @@ form label {
     width: 30%;
 }
 
-.botão {
+button {
     width: 35%;
     padding: 10px 0;
     font-weight: bold;
@@ -50,6 +42,3 @@ form label {
     border: none;
 }
 
-.botão:hover {
-    background: #ffff00;
-}
